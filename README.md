@@ -3,8 +3,11 @@ Welcome to the repository for my Task Manager Website, a simple yet functional w
 
 ## Features
 Create Tasks: Users can add new tasks with descriptions.
+
 View Tasks: Users can see a list of their current tasks.
+
 Update Tasks: Users have the option to edit the details of their tasks.
+
 Delete Tasks: Users can remove tasks they no longer need.
 
 ## Prerequisites
@@ -17,5 +20,7 @@ Virtual environment (optional but recommended)
 ## Technologies Used
 
 Backend: Flask
+
 Frontend: HTML, CSS
+
 Database: SQLite
